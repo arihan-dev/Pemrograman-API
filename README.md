@@ -9,10 +9,11 @@
 | Mata Kuliah | Pemrograman API |
 
 # PEMROGRMAN API
-### Fitur Next-Js
+### Next-Js
 |  |  |  |
 |--|--|--|
-|*No| **Fitur* | *Detail* |
+|*No| **Bab* | *Detail* |
+| 1 | Latihan 1 | Next Js App Router |
 
 # SCREENSHOT PROGRAM
 
