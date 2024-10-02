@@ -12,7 +12,7 @@
 ### Next-Js
 |  |  |  |
 |--|--|--|
-|*No| **Bab* | *Detail* |
+|*No*| *Bab* | *Detail* |
 | 1 | Latihan 1 | Next Js App Router |
 
 # SCREENSHOT PROGRAM
