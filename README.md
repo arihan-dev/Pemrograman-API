@@ -18,4 +18,4 @@
 # SCREENSHOT PROGRAM
 
 
-| Next-Js - App Router - Praktikum Pemrograman API |
+| Next-Js - Praktikum Pemrograman API |
