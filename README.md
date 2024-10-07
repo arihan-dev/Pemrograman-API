@@ -1,6 +1,7 @@
 # Data Diri
 
 |  |  |
+|--|--|
 | NIM | *21104410106* |
 | Nama Lengkap | *Ari Handoyo* |
 | Kelas | TI-5B |
@@ -10,6 +11,7 @@
 # PEMROGRMAN API
 ### Next-Js
 |  |  |  |
+|--|--|--|
 |*No*| *Bab* | *Detail* |
 | 1 | Latihan 1 | Next Js App Router |
 
