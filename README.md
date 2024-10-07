@@ -8,7 +8,7 @@
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 | Mata Kuliah | Pemrograman API |
 
-# PEMROGRMAN API
+# PEMROGRAMAN API
 ### Next-Js
 |  |  |  |
 |--|--|--|
